@@ -13,7 +13,7 @@ body {
   width: 100%; }
 
 header {
-  background-image: url(/images/Nature.jpg);
+  background-image: url(../images/Nature.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -44,7 +44,7 @@ header {
 .navcontainer .menu {
   clear: both;
   max-height: 0;
-  transition: max-height .2s ease-out;
+  transition: max-height 0.2s ease-out;
   background-color: transparent; }
 
 .navcontainer .menu-icon {
@@ -62,7 +62,7 @@ header {
   background: white;
   height: 2px;
   position: relative;
-  transition: background .2s ease-out;
+  transition: background 0.2s ease-out;
   width: 18px;
   border-radius: 30%; }
 
@@ -72,7 +72,7 @@ header {
   content: '';
   height: 100%;
   position: absolute;
-  transition: all .2s ease-out;
+  transition: all 0.2s ease-out;
   width: 100%;
   border-radius: 30%; }
 
