@@ -1,4 +1,4 @@
-# Duplicate design
+# Recreate design
 
 This is a school assignment, where we were given a picture to duplicate through an actual web page
 
